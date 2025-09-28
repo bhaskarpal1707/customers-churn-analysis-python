@@ -128,4 +128,4 @@ Aspiring Data Analyst
 ---
 
 ## Tags & Keywords
-#CustomerChurn, #TelecomAnalytics, #RetentionStrategy, #Python, #EDA, #DataVisualization, #ContractAnalysis, #PaymentBehavior, #CustomerSegmentation, #BusinessIntelligence, #ChurnReduction
+`#CustomerChurn`, `#TelecomAnalytics`, `#RetentionStrategy`, `#Python`, `#EDA`, `#DataVisualization`, `#ContractAnalysis`, `#PaymentBehavior`, `#CustomerSegmentation`, `#BusinessIntelligence`, `#ChurnReduction`
