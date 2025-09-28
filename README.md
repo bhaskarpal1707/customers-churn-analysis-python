@@ -5,7 +5,7 @@
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 - Overview
 - Business Problems
 - Datasets
@@ -20,19 +20,19 @@
 
 ---
 
-## Overview
+## 📖 Overview
 This project analyzes telecom customer churn by integrating demographic data, contract attributes, billing methods, and internet service usage to identify the strongest drivers of churn and recommend targeted retention strategies. The analysis follows a structured Python workflow, including data cleaning, exploratory data analysis (EDA), and insight generation.
 
 ---
 
-## Business Problems
+## 💡 Business Problems
 - Identify at-risk customers to enable timely, proactive retention interventions.
 - Understand the key behavioral and contractual factors influencing churn.
 - Translate insights into practical, data-driven retention strategies to improve overall customer lifetime value.
 
 ---
 
-## Datasets
+## 📊 Datasets
 
 The project uses three datasets that together provide customer demographics, internet services, and churn outcomes.
 
@@ -88,7 +88,7 @@ Together, these datasets allow for a 360° analysis of churn behavior, covering 
 
 ---
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 - Languages: Python
 - Environment: Jupyter Notebook
 - Libraries: pandas, numpy, matplotlib, seaborn
@@ -96,7 +96,7 @@ Together, these datasets allow for a 360° analysis of churn behavior, covering 
 
 ---
 
-## Key Insights
+## 🔄 Key Insights
 - Overall churn is approximately 26–27%, indicating roughly three-quarters of customers are retained.
 - Month-to-month contracts exhibit the highest churn; one-year and two-year contracts show significantly lower churn.
 - Churners pay higher MonthlyCharges on average; high charge + short tenure is a high-risk combination.
@@ -107,7 +107,7 @@ Together, these datasets allow for a 360° analysis of churn behavior, covering 
 
 ---
 
-## Final Recommendations
+## ✅ Final Recommendations
 - Promote longer-term contracts: Offer incentives to convert month-to-month users to one- or two-year plans.
 - Focus on early-tenure journeys: Prioritize onboarding, proactive check-ins, and usage nudges within the first 12–18 months.
 - Bundle value-added services: Cross-sell OnlineSecurity and TechSupport; these correlate with lower churn.
@@ -117,7 +117,7 @@ Together, these datasets allow for a 360° analysis of churn behavior, covering 
 
 ---
 
-## Author & Contact
+## 👤 Author & Contact
 Bhaskar Pal  
 Aspiring Data Analyst
 
@@ -128,4 +128,4 @@ Aspiring Data Analyst
 ---
 
 ## Tags & Keywords
-Customer Churn, Telecom Analytics, Retention Strategy, Python, EDA, Data Visualization, Contract Analysis, Payment Behavior, Customer Segmentation, Business Intelligence, Machine Learning, Churn Reduction
+#CustomerChurn, #TelecomAnalytics, #RetentionStrategy, #Python, #EDA, #DataVisualization, #ContractAnalysis, #PaymentBehavior, #CustomerSegmentation, #BusinessIntelligence, #ChurnReduction
