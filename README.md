@@ -1,7 +1,7 @@
-# CuCUSTOMERS CHURN ANALYSIS USING ANALYSIS
+# CUSTOMERS CHURN ANALYSIS USING ANALYSIS
 ### Uncovering Drivers of Customer Retention and Reducing Churn through Data Insights
 
-
+<img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/b00946e6-34d9-4980-b6fd-7e70362d256c" />
 
 ---
 
